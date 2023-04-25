@@ -17112,7 +17112,7 @@ return A.W($async$Ke,r)},
 rd:function rd(a){this.a=a},
 Gm:function Gm(a){var _=this
 _.d=!0
-_.x=_.w=_.r=_.f=_.e=""
+_.f=_.e=""
 _.a=null
 _.b=a
 _.c=null},
@@ -52757,8 +52757,8 @@ q=$.eY
 r=(q==null?$.eY=$.oT():q).ji(0,n)
 A.h5(r,s,!0)
 A.hH(A.hH(A.z5(new A.eX(r)).gkE().iz(0,o)).c.jn(0,"Humidity")).gm9().lX(new A.a2h(p))},
-M(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=a.Y(t.w).f.a,h=i.b,g=A.qs(B.yS,j,h/24),f=A.a91("Ak\u0131ll\u0131 Sera",A.mD(B.h,h/26,B.S,A.aY(a).RG.b),j)
-if(k.d)h=A.x1(new A.ps(j,j,j,j,j,j,j),j,j)
+M(a){var s,r,q,p,o,n,m,l,k=null,j="Kapal\u0131",i=a.Y(t.w).f.a,h=i.b,g=A.qs(B.yS,k,h/24),f=A.a91("Ak\u0131ll\u0131 Sera",A.mD(B.h,h/26,B.S,A.aY(a).RG.b),k)
+if(this.d)h=A.x1(new A.ps(k,k,k,k,k,k,k),k,k)
 else{s=h/6
 r=h/7
 q=t.E
@@ -52768,8 +52768,8 @@ n=o/25
 m=o/38
 l=o/23
 o/=50
-q=A.x1(A.ah7(A.a([A.Cg(A.a([A.aa0("https://pbs.twimg.com/profile_images/1461001925760102401/-rSF5NyW_400x400.jpg",s,s),A.aa0("https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_Logo.svg/1200px-Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_Logo.svg.png",r,r)],q),B.ba,B.d0,B.c0),A.a91("S\xfclo\u011flu Cumhuriyet Ortaokulu Ak\u0131ll\u0131 Sera Uygulamas\u0131",A.mD(B.d3,h/19,B.S,A.aY(a).RG.b),B.jc),A.jr(j,p,j),A.Cg(A.a([A.Iq(A.qs(B.yT,B.d3,n),A.tH(k.e,j,j,j,j,j,j,j,A.mD(B.d3,m,B.S,A.aY(a).RG.b),j,j,j),new A.a23()),A.jr(j,j,p),A.Iq(A.qs(B.yQ,B.bl,n),A.tH(k.f,j,j,j,j,j,j,j,A.mD(B.bl,m,B.S,A.aY(a).RG.b),j,j,j),new A.a24())],q),B.ba,B.d0,B.c0),A.jr(j,p,j),A.Cg(A.a([A.Iq(A.qs(B.yR,B.D_,l),A.tH(k.r,j,j,j,j,j,j,j,A.mD(B.k,o,B.S,A.aY(a).RG.b),j,j,j),new A.a25()),A.Iq(A.qs(B.yP,j,l),A.tH(k.w,j,j,j,j,j,j,j,A.mD(B.k,o,B.S,A.aY(a).RG.b),j,j,j),new A.a26()),A.Iq(A.qs(B.yU,B.d3,l),A.tH(k.x,j,j,j,j,j,j,j,A.mD(B.k,o,B.S,A.aY(a).RG.b),j,j,j),new A.a27())],q),B.ba,B.d0,B.c0)],q),B.d0),j,j)
-h=q}return new A.ta(new A.pa(g,f,10,B.k,B.D0,new A.Hd(j,j,1/0,56),j),h,j)}}
+q=A.x1(A.ah7(A.a([A.Cg(A.a([A.aa0("https://pbs.twimg.com/profile_images/1461001925760102401/-rSF5NyW_400x400.jpg",s,s),A.aa0("https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_Logo.svg/1200px-Milli_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_Logo.svg.png",r,r)],q),B.ba,B.d0,B.c0),A.a91("S\xfclo\u011flu Cumhuriyet Ortaokulu Ak\u0131ll\u0131 Sera Uygulamas\u0131",A.mD(B.d3,h/19,B.S,A.aY(a).RG.b),B.jc),A.jr(k,p,k),A.Cg(A.a([A.Iq(A.qs(B.yT,B.d3,n),A.tH(this.e,k,k,k,k,k,k,k,A.mD(B.d3,m,B.S,A.aY(a).RG.b),k,k,k),new A.a23()),A.jr(k,k,p),A.Iq(A.qs(B.yQ,B.bl,n),A.tH(this.f,k,k,k,k,k,k,k,A.mD(B.bl,m,B.S,A.aY(a).RG.b),k,k,k),new A.a24())],q),B.ba,B.d0,B.c0),A.jr(k,p,k),A.Cg(A.a([A.Iq(A.qs(B.yR,B.D_,l),A.tH(j,k,k,k,k,k,k,k,A.mD(B.k,o,B.S,A.aY(a).RG.b),k,k,k),new A.a25()),A.Iq(A.qs(B.yP,k,l),A.tH(j,k,k,k,k,k,k,k,A.mD(B.k,o,B.S,A.aY(a).RG.b),k,k,k),new A.a26()),A.Iq(A.qs(B.yU,B.d3,l),A.tH(j,k,k,k,k,k,k,k,A.mD(B.k,o,B.S,A.aY(a).RG.b),k,k,k),new A.a27())],q),B.ba,B.d0,B.c0)],q),B.d0),k,k)
+h=q}return new A.ta(new A.pa(g,f,10,B.k,B.D0,new A.Hd(k,k,1/0,56),k),h,k)}}
 A.a2d.prototype={
 $1(a){var s=this.a
 s.a6(new A.a2c(s,a.gfs(a).a.a.i(0,"value")))},
@@ -52785,8 +52785,7 @@ s.a6(new A.a2b(s,a.gfs(a).a.a.i(0,"value")))},
 $S:27}
 A.a2b.prototype={
 $0(){var s=this.b,r=J.e9(s)
-if(J.e(r.h(s),"0"))this.a.r="Kapal\u0131"
-else if(J.e(r.h(s),"1"))this.a.r="A\xe7\u0131k"},
+if(!J.e(r.h(s),"0"))J.e(r.h(s),"1")},
 $S:0}
 A.a2f.prototype={
 $1(a){var s=this.a
@@ -52794,8 +52793,7 @@ s.a6(new A.a2a(s,a.gfs(a).a.a.i(0,"value")))},
 $S:27}
 A.a2a.prototype={
 $0(){var s=this.b,r=J.e9(s)
-if(J.e(r.h(s),"0"))this.a.w="Kapal\u0131"
-else if(J.e(r.h(s),"1"))this.a.w="A\xe7\u0131k"},
+if(!J.e(r.h(s),"0"))J.e(r.h(s),"1")},
 $S:0}
 A.a2g.prototype={
 $1(a){var s=this.a
@@ -52803,8 +52801,7 @@ s.a6(new A.a29(s,a.gfs(a).a.a.i(0,"value")))},
 $S:27}
 A.a29.prototype={
 $0(){var s=this.b,r=J.e9(s)
-if(J.e(r.h(s),"0"))this.a.x="Kapal\u0131"
-else if(J.e(r.h(s),"1"))this.a.x="A\xe7\u0131k"},
+if(!J.e(r.h(s),"0"))J.e(r.h(s),"1")},
 $S:0}
 A.a2h.prototype={
 $1(a){var s=this.a
